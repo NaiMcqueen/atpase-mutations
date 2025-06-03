@@ -1,0 +1,140 @@
+Porcentaje de ocurrencia de condiciones patogénicas:
+
+not provided: 43.41%
+not specified: 9.66%
+ALG9 congenital disorder of glycosylation: 8.84%
+See cases: 8.45%
+Inborn genetic diseases: 6.11%
+Renal tubular acidosis with progressive nerve deafness: 4.76%
+Cutis laxa with osteodystrophy: 4.26%
+Renal tubular acidosis, distal, 3, with or without sensorineural hearing loss: 4.12%
+Autosomal recessive distal renal tubular acidosis: 2.17%
+Wrinkly skin syndrome: 0.88%
+Developmental and epileptic encephalopathy 93: 0.72%
+Cutis Laxa, Recessive: 0.41%
+Developmental and epileptic encephalopathy 104: 0.33%
+Zimmermann-Laband syndrome 2: 0.29%
+Autosomal dominant deafness - onychodystrophy syndrome: 0.27%
+Neurodevelopmental disorder with epilepsy and brain atrophy: 0.27%
+ATP6V0A2-related disorder: 0.16%
+Meckel syndrome, type 8: 0.14%
+Joubert syndrome 24: 0.14%
+Meckel-Gruber syndrome: 0.12%
+Autosomal recessive cutis laxa type 2D: 0.12%
+ATP6V1B2-related disorder: 0.12%
+Epilepsy, early-onset, 3, with or without developmental delay: 0.12%
+Neurodevelopmental disorder: 0.12%
+Joubert syndrome: 0.12%
+ATP6V0A4-related disorder: 0.12%
+Breast ductal adenocarcinoma: 0.12%
+Global developmental delay: 0.10%
+ATP6V1B1-related disorder: 0.10%
+ATP6V1A-related disorder: 0.10%
+Cutis laxa: 0.08%
+Early infantile epileptic encephalopathy with suppression bursts: 0.08%
+Polydactyly: 0.08%
+Seizure: 0.08%
+Autosomal recessive cutis laxa type 2C: 0.06%
+Hypertrophic cardiomyopathy 26: 0.06%
+Dilated Cardiomyopathy, Dominant: 0.06%
+Distal renal tubular acidosis: 0.06%
+Ring chromosome 7: 0.06%
+Mosaic trisomy 2: 0.06%
+Atrial septal defect 7: 0.06%
+EPILEPSY, EARLY-ONSET, 3, WITH DEVELOPMENTAL DELAY: 0.06%
+Chromosome 3q13.31 deletion syndrome: 0.06%
+Chromosome 22q11.2 microduplication syndrome: 0.06%
+Myofibrillar myopathy 5: 0.06%
+Distal myopathy with posterior leg and anterior hand involvement: 0.06%
+Intellectual disability, mild: 0.04%
+Pleomorphic xanthoastrocytoma: 0.04%
+ATP6V0A1-related condition: 0.04%
+Microcephaly: 0.04%
+Vasculitis due to ADA2 deficiency: 0.04%
+Hereditary nonpolyposis colorectal neoplasms: 0.04%
+Autosomal dominant limb-girdle muscular dystrophy type 1F: 0.04%
+Poly (ADP-Ribose) polymerase inhibitor response: 0.04%
+Cat eye syndrome: 0.04%
+Megacolon: 0.04%
+Autism: 0.04%
+Hearing impairment: 0.04%
+Neurodevelopmental delay: 0.04%
+Hyperaldosteronism, familial, type IV: 0.04%
+Epilepsy: 0.04%
+Abnormal facial shape: 0.04%
+Idiopathic generalized epilepsy: 0.04%
+Hypotonia: 0.04%
+Esophageal atresia: 0.02%
+Breast-ovarian cancer, familial, susceptibility to, 1: 0.02%
+Neurodevelopmental disorder with nonspecific brain abnormalities and with or without seizures: 0.02%
+Deficiency of butyryl-CoA dehydrogenase: 0.02%
+Severe short stature: 0.02%
+Intellectual disability: 0.02%
+Pyloric stenosis: 0.02%
+Cerebellar ataxia: 0.02%
+Prostate cancer: 0.02%
+Focal-onset seizure: 0.02%
+Chromosome 16q12 duplication syndrome: 0.02%
+Partial trisomy of the long arm of chromosome 16: 0.02%
+Hemimegalencephaly: 0.02%
+Chromosome 16p13.3 duplication syndrome: 0.02%
+Childhood-onset epilepsy syndrome: 0.02%
+Saldino-Mainzer syndrome: 0.02%
+Rolandic epilepsy-paroxysmal exercise-induced dystonia-writer's cramp syndrome: 0.02%
+Autosomal dominant nonsyndromic hearing loss 65: 0.02%
+Caused by mutation in the TBC1 domain family, member 24: 0.02%
+Developmental and epileptic encephalopathy, 1: 0.02%
+Floppy infant: 0.02%
+Renal transitional cell carcinoma: 0.02%
+Bailey-Bloch congenital myopathy: 0.02%
+Distal Renal Tubular Acidosis, Recessive: 0.02%
+Bilateral polymicrogyria: 0.02%
+Charcot-Marie-Tooth disease dominant intermediate C: 0.02%
+Small face: 0.02%
+Growth delay: 0.02%
+Hypertelorism: 0.02%
+Wide mouth: 0.02%
+Short finger: 0.02%
+Sensorineural hearing loss disorder: 0.02%
+Lower limb spasticity: 0.02%
+Severe global developmental delay: 0.02%
+Large for gestational age: 0.02%
+Cerebral visual impairment and intellectual disability: 0.02%
+Developmental and epileptic encephalopathy, 2: 0.02%
+Developmental disorder: 0.02%
+Neurodevelopmental abnormality: 0.02%
+Encephalopathy: 0.02%
+Abnormal esophagus morphology: 0.02%
+Dyskeratosis congenita, autosomal dominant 6: 0.02%
+ATP6V1B2 related neurodevelopmental disorders: 0.02%
+Hereditary spastic paraplegia 53: 0.02%
+8p inverted duplication/deletion syndrome: 0.02%
+Nephrocalcinosis: 0.02%
+Rare genetic deafness: 0.02%
+Abnormality of the genitourinary system: 0.02%
+Usher syndrome: 0.02%
+Polydactyly, postaxial, type A1: 0.02%
+Methylmalonic acidemia due to methylmalonyl-CoA epimerase deficiency: 0.02%
+5q35 microduplication syndrome: 0.02%
+Hunter-McAlpine craniosynostosis: 0.02%
+Abnormal fetal cardiovascular morphology: 0.02%
+Narrow forehead: 0.02%
+Wide nasal bridge: 0.02%
+Micrognathia: 0.02%
+Zimmermann-Laband syndrome with epileptic encephalopathy: 0.02%
+Anomalous pulmonary venous return: 0.02%
+Leber congenital amaurosis 13: 0.02%
+14q22.2q24.3 duplication: 0.02%
+Cohen syndrome: 0.02%
+Zimmermann-Laband syndrome 1: 0.02%
+DOORS syndrome: 0.02%
+Low-set ears: 0.02%
+Delayed speech and language development: 0.02%
+Delayed fine motor development: 0.02%
+Immunodeficiency 51: 0.02%
+RASopathy: 0.02%
+Distal tetrasomy 15q: 0.02%
+Proteasome-associated autoinflammatory syndrome 1: 0.02%
+Parathyroid carcinoma: 0.02%
+Paragangliomas 3: 0.02%
+Gastrointestinal stromal tumor: 0.02%
