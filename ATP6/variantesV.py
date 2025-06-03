@@ -1,3 +1,4 @@
+#%%
 import pandas as pd
 import glob
 import os
@@ -9,9 +10,5 @@ df_ATP6 = pd.concat([pd.read_csv(archivo, sep="\t", engine="python", dtype=str).
 if not os.path.exists("ATP6_variantes.csv"):
     df_ATP6.to_csv("ATP6_variantes.csv", index=False)
 
-
-df_ATP6.head(2)
-
-
-
-# %%
+conteo = df_ATP6['Gene(s)'].value_counts()
+conteo
